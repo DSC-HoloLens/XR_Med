@@ -27,7 +27,7 @@ public class MainSystem : MonoBehaviour
             Destroy(current_popup);
         }
         current_popup = Instantiate(popup, reference.position, reference.rotation);
-        StartCoroutine(GetRequest($"{destination}/test", current_popup));
+        StartCoroutine(GetRequest($"{destination}/medical-term", current_popup));
 
     }
 

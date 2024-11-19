@@ -4310,7 +4310,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   reference: {fileID: 1828601336}
   popup: {fileID: 3266971543330764337, guid: 8037f7d644d9e6ddbb7ff1cafa31a2f2, type: 3}
-  DebugText: This is a disease!
+  DebugText: 'this is a disease! blah blah qwertyhgfd dfghj rftyuytfdcvg fghy yujijhjij
+    ddfcgyhgv tftyh dhfhd hhjh ygyuhg uygfgyuyg ytftygf yfgyhujh ugh uyguh uyhjij
+    rsdrf 2345 2345 34r 456 4567 34567 3456 3456 edf this is a disease! blah blah
+    qwertyhgfd dfghj rftyuytfdcvg fghy yujijhjij ddfcgyhgv tftyh dhfhd hhjh ygyuhg
+    uygfgyuyg ytftygf yfgyhujh ugh uyguh uyhjij rsdrf 2345 2345 34r 456 4567 34567
+    3456 3456 edf '
 --- !u!4 &223974228
 Transform:
   m_ObjectHideFlags: 0
